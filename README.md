@@ -40,13 +40,13 @@ The `requirements.txt` file lists the necessary libraries and their versions.
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/hanifa2074/EP_MODEL.git
+git clone https://github.com/balasubramaniyan2004/EP_MODELING.git
 ```
 
 2. Change your current working directory to the project's root folder:
 
 ```bash
-cd EP_MODEL.git
+cd EP_MODELING.git
 ```
 
 3. Install the required dependencies (as mentioned in the "Dependencies" section).
@@ -64,7 +64,7 @@ cd EP_MODEL.git
 2. Navigate to the project's root directory:
 
 ```bash
-cd path/to/EP_MODEL.git
+cd path/to/EP_MODELING.git
 ```
 
 3. Run the provided Jupyter Notebook or Python script to perform earthquake prediction tasks. Use the code as a reference to customize the prediction model based on your dataset and requirements.
